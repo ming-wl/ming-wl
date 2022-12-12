@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **frontend languages**
 
-- 📫 How to reach me **ming_wl23@hotmail.com**
+- 📫 How to reach me -> **ming_wl23@hotmail.com**
 
 - ⚡ Fun fact: **I think I am funny**
 
