@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ming</h1>
+<h1 align="center">Hi 👋!, I'm Ming</h1>
 <h3 align="center">A passionate frontend/fullstack developer from Madrid</h3>
 
 - 🌱 I’m currently learning **frontend languages**
