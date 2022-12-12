@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ming_wl23@hotmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
