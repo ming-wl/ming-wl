@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋!, I'm Ming</h1>
+<h1 align="center">Hi 👋! I'm Ming</h1>
 <h3 align="center">A passionate frontend/fullstack developer from Madrid</h3>
 
-- 🌱 I’m currently learning **frontend languages**
+- 🌱 I’m currently learning **frontend/backend languages**
 
-- 📫 How to reach me -> **ming_wl23@hotmail.com**
+- 👨‍💻 All of my projects are available at [troopl.com/mingwl](troopl.com/mingwl)
 
-- ⚡ Fun fact: **I think I am funny**
+- 📫 How to reach me **ming_wl23@hotmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mingwonglasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mingwonglasin" height="30" width="40" /></a>
 <a href="https://instagram.com/ming_wl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ming_wl" height="30" width="40" /></a>
 </p>
 
