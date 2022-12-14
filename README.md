@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [troopl.com/mingwl](troopl.com/mingwl)
 
-- 📫 How to reach me **ming_wl23@hotmail.com**
+- 📫 How to reach me -> **ming_wl23@hotmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
